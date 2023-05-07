@@ -44,8 +44,10 @@ button{
 
 ul{
     list-style-type: none;
-    padding: 0;
-    margin: 0;
+    padding: 30px;
+    margin: 20;
+    /* margin-bottom: 30; */
+    /* padding-bottom: 50px; */
 }
 
 li{
@@ -64,7 +66,7 @@ li:hover{
 }
 
 h1{
-    background: url(/logo.png) no-repeat center;
+    background: url(/assets/logo.png) no-repeat center;
     margin-bottom: 0;
     text-indent: -10000px;
 }
